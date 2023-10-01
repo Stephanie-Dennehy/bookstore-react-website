@@ -59,6 +59,7 @@ li {
 h1 {
   font-size: 48px;
   color: #7342d6;
+  margin-top: 24px;
   margin-bottom: 24px;
   text-align: center;
 }
@@ -252,9 +253,8 @@ header {
 }
 
 .header__img--wrapper {
-  height: 75vh;
+  height: 100vh;
   padding-top: 20px;
-  z-index: 100;
 
   /* Added this after the tutorial to 
   show it over the wave on larger screens */
